@@ -86,18 +86,23 @@ body{
   
   .contents-item {
 
-    margin: 40px 0 40px 0;
+    margin: 20px 0 20px 0;
   }
   
   .contents-item p {
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 30px;
   }
 
   .content_detail {
 
-    font-size: 12px;
+    font-size: 16px;
     padding: 0 40px;
+
+    margin-block-start: 2.33em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 
 
   }
