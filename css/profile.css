@@ -29,7 +29,7 @@ body{
 
 
   .main {
-    padding: 10px 40px;
+    padding: 10px 20px;
   }
   .copy-container img{
     width: 100%;
@@ -62,7 +62,7 @@ body{
   }
   
   .copy-container h2 {
-    font-size: 30px;
+    font-size: 24px;
     margin-block-start: 0.3em;
     margin-block-end: 0.3em;
   }
@@ -95,6 +95,9 @@ body{
   }
 
   .content_detail {
+
+    font-size: 12px;
+    padding: 0 40px;
 
 
   }
